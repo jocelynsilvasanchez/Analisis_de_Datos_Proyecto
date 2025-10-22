@@ -1,0 +1,4 @@
+numpy
+seabord
+pandas
+matplotlib
